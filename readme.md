@@ -19,7 +19,7 @@ $ nocors --help
 
 	Options
 	  --port  Port you want to run the proxy server [required]
-	  --endpoint API endpoint root URL
+	  --endpoint API endpoint root URL [required]
 
 	Examples
 	  $ nocors --port=1234 --endpoint=http://api.hugethoughts.com
